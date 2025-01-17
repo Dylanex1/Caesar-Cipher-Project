@@ -1,7 +1,7 @@
 # Ceasar Cipher Project
 Hello and welcome to the second security project I have made!
 
-I was inspired by the following link for a project idea https://www.knowledgehut.com/blog/security/top-cyber-security-projects
+I was inspired by the following link for a project idea https://www.knowledgehut.com/blog/security/top-cyber-security-projects   (copy paste the link)
 
 ### Description
 
